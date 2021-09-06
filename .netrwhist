@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='C:/Users/Soumil Bhattacharya/Documents/Coding/C_Cpp/FIRST'
+let g:netrw_dirhist_6='C:\Users\Soumil Bhattacharya\Documents\Coding\C_Cpp\FIRST'
+let g:netrw_dirhist_5='C:/Users/Soumil Bhattacharya/AppData/Local/nvim'
+let g:netrw_dirhist_4='C:/Users/Soumil Bhattacharya/AppData/Local'
+let g:netrw_dirhist_3='C:/Users/Soumil Bhattacharya/AppData'
+let g:netrw_dirhist_2='C:/Users/Soumil Bhattacharya/AppData/Roaming'
+let g:netrw_dirhist_1='C:/Users/Soumil Bhattacharya/AppData'
+let g:netrw_dirhist_0='C:\Users\Soumil Bhattacharya'
+let g:netrw_dirhist_9='C:/Users/Soumil Bhattacharya'
+let g:netrw_dirhist_8='C:/Users/Soumil Bhattacharya/AppData'
